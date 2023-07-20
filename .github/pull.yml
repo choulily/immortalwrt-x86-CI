@@ -1,5 +1,5 @@
 version: "1"
 rules:
-  - base: 23.05
-    upstream: lienol:23.05
+  - base: 21.02
+    upstream: immortalwrt:21.03
     mergeMethod: none
