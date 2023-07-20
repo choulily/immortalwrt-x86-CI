@@ -3,8 +3,8 @@
 #
 # This  script is licensed under GNU General Public License 2.0 or higher
 #
-# Modified OpenWRT source code from Lienol
-#   [https://github.com/lienol/openwrt]
+# Modified OpenWRT source code from immortalwrt
+#   [https://github.com/immortalwrt/immortalwrt]
 #
 name: Compile Lienol Openwrt x86_64 Defaults
 
