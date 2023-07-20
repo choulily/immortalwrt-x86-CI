@@ -1,5 +1,5 @@
 version: "1"
 rules:
   - base: 21.02
-    upstream: immortalwrt:21.03
+    upstream: immortalwrt:21.02
     mergeMethod: none
